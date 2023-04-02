@@ -1,0 +1,4 @@
+pyopengl
+glfw
+pillow
+pyrr
