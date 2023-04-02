@@ -7,3 +7,10 @@ This is a project of CS4182 Computer Graphics. The reason of uploading this repo
 3. To save the space of my computer.
 
 Now that I have uploaded it, I may improve it when time allows.
+
+*Note:* For installing PyOpenGL, please access to https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyopengl and download the corresponding python version of package.
+
+![](./docs/assignment.png)
+
+![](./docs/advanced.png)
+
